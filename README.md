@@ -2,7 +2,8 @@
 Pixelflut in web!
 
 Fork: https://github.com/defnull/pixelflut
-Web example: pixelflut.firecarrot.com
+
+Web example: http://pixelflut.firecarrot.com
 
 ## install:
 git clone https://github.com/kianxineki/pixelflut.git
