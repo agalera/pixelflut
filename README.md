@@ -6,7 +6,7 @@ Fork: https://github.com/defnull/pixelflut
 Web example: http://pixelflut.firecarrot.com
 
 ## install:
-git clone https://github.com/kianxineki/pixelflut.git
+git clone https://github.com/agalera/pixelflut.git
 cd pixelflut
 pip install -r requirements.txt
 
